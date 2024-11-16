@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# OOP\\Session 01 \u0026 02_OOP_Demo_C#\\Session 01 \u0026 02_OOP_Demo_C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7065793D-2C45-4B70-A3E1-EFB51CE08FBB}|Session 01_OOP_Demo_C#.csproj|e:\\route course backend asp .net\\assignments solution\\c# oop\\session 01 \u0026 02_oop_demo_c#\\session 01 \u0026 02_oop_demo_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7065793D-2C45-4B70-A3E1-EFB51CE08FBB}|Session 01_OOP_Demo_C#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7065793D-2C45-4B70-A3E1-EFB51CE08FBB}|Session 01_OOP_Demo_C#.csproj|e:\\route course backend asp .net\\assignments solution\\c# oop\\session 01 \u0026 02_oop_demo_c#\\session 01 \u0026 02_oop_demo_c#\\session 01_oop_demo_c#.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7065793D-2C45-4B70-A3E1-EFB51CE08FBB}|Session 01_OOP_Demo_C#.csproj|solutionrelative:session 01_oop_demo_c#.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7065793D-2C45-4B70-A3E1-EFB51CE08FBB}|Session 01_OOP_Demo_C#.csproj|e:\\route course backend asp .net\\assignments solution\\c# oop\\session 01 \u0026 02_oop_demo_c#\\session 01 \u0026 02_oop_demo_c#\\association aggregation\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7065793D-2C45-4B70-A3E1-EFB51CE08FBB}|Session 01_OOP_Demo_C#.csproj|solutionrelative:association aggregation\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7065793D-2C45-4B70-A3E1-EFB51CE08FBB}|Session 01_OOP_Demo_C#.csproj|e:\\route course backend asp .net\\assignments solution\\c# oop\\session 01 \u0026 02_oop_demo_c#\\session 01 \u0026 02_oop_demo_c#\\association aggregation\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7065793D-2C45-4B70-A3E1-EFB51CE08FBB}|Session 01_OOP_Demo_C#.csproj|solutionrelative:association aggregation\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7065793D-2C45-4B70-A3E1-EFB51CE08FBB}|Session 01_OOP_Demo_C#.csproj|e:\\route course backend asp .net\\assignments solution\\c# oop\\session 01 \u0026 02_oop_demo_c#\\session 01 \u0026 02_oop_demo_c#\\association composition\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7065793D-2C45-4B70-A3E1-EFB51CE08FBB}|Session 01_OOP_Demo_C#.csproj|solutionrelative:association composition\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7065793D-2C45-4B70-A3E1-EFB51CE08FBB}|Session 01_OOP_Demo_C#.csproj|e:\\route course backend asp .net\\assignments solution\\c# oop\\session 01 \u0026 02_oop_demo_c#\\session 01 \u0026 02_oop_demo_c#\\association composition\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7065793D-2C45-4B70-A3E1-EFB51CE08FBB}|Session 01_OOP_Demo_C#.csproj|solutionrelative:association composition\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7065793D-2C45-4B70-A3E1-EFB51CE08FBB}|Session 01_OOP_Demo_C#.csproj|e:\\route course backend asp .net\\assignments solution\\c# oop\\session 01 \u0026 02_oop_demo_c#\\session 01 \u0026 02_oop_demo_c#\\association composition\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7065793D-2C45-4B70-A3E1-EFB51CE08FBB}|Session 01_OOP_Demo_C#.csproj|solutionrelative:association composition\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7065793D-2C45-4B70-A3E1-EFB51CE08FBB}|Session 01_OOP_Demo_C#.csproj|e:\\route course backend asp .net\\assignments solution\\c# oop\\session 01 \u0026 02_oop_demo_c#\\session 01 \u0026 02_oop_demo_c#\\oopinheritance\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7065793D-2C45-4B70-A3E1-EFB51CE08FBB}|Session 01_OOP_Demo_C#.csproj|solutionrelative:oopinheritance\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7065793D-2C45-4B70-A3E1-EFB51CE08FBB}|Session 01_OOP_Demo_C#.csproj|e:\\route course backend asp .net\\assignments solution\\c# oop\\session 01 \u0026 02_oop_demo_c#\\session 01 \u0026 02_oop_demo_c#\\oopinheritance\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7065793D-2C45-4B70-A3E1-EFB51CE08FBB}|Session 01_OOP_Demo_C#.csproj|solutionrelative:oopinheritance\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7065793D-2C45-4B70-A3E1-EFB51CE08FBB}|Session 01_OOP_Demo_C#.csproj|e:\\route course backend asp .net\\assignments solution\\c# oop\\session 01 \u0026 02_oop_demo_c#\\session 01 \u0026 02_oop_demo_c#\\encapsulation\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7065793D-2C45-4B70-A3E1-EFB51CE08FBB}|Session 01_OOP_Demo_C#.csproj|solutionrelative:encapsulation\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7065793D-2C45-4B70-A3E1-EFB51CE08FBB}|Session 01_OOP_Demo_C#.csproj|e:\\route course backend asp .net\\assignments solution\\c# oop\\session 01 \u0026 02_oop_demo_c#\\session 01 \u0026 02_oop_demo_c#\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7065793D-2C45-4B70-A3E1-EFB51CE08FBB}|Session 01_OOP_Demo_C#.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\C# Projects\\Common2\\TypeB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\C# Projects\\Common2\\TypeA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# OOP\\Session 01 \u0026 02_OOP_Demo_C#\\Session 01 \u0026 02_OOP_Demo_C#\\Association Aggregation\\Department.cs",
+              "RelativeDocumentMoniker": "Association Aggregation\\Department.cs",
+              "ToolTip": "E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# OOP\\Session 01 \u0026 02_OOP_Demo_C#\\Session 01 \u0026 02_OOP_Demo_C#\\Association Aggregation\\Department.cs",
+              "RelativeToolTip": "Association Aggregation\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T17:26:03.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# OOP\\Session 01 \u0026 02_OOP_Demo_C#\\Session 01 \u0026 02_OOP_Demo_C#\\Association Aggregation\\Employee.cs",
+              "RelativeDocumentMoniker": "Association Aggregation\\Employee.cs",
+              "ToolTip": "E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# OOP\\Session 01 \u0026 02_OOP_Demo_C#\\Session 01 \u0026 02_OOP_Demo_C#\\Association Aggregation\\Employee.cs",
+              "RelativeToolTip": "Association Aggregation\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T17:10:17.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# OOP\\Session 01 \u0026 02_OOP_Demo_C#\\Session 01 \u0026 02_OOP_Demo_C#\\Association Composition\\Order.cs",
+              "RelativeDocumentMoniker": "Association Composition\\Order.cs",
+              "ToolTip": "E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# OOP\\Session 01 \u0026 02_OOP_Demo_C#\\Session 01 \u0026 02_OOP_Demo_C#\\Association Composition\\Order.cs",
+              "RelativeToolTip": "Association Composition\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:48:40.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# OOP\\Session 01 \u0026 02_OOP_Demo_C#\\Session 01 \u0026 02_OOP_Demo_C#\\Association Composition\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Association Composition\\OrderItem.cs",
+              "ToolTip": "E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# OOP\\Session 01 \u0026 02_OOP_Demo_C#\\Session 01 \u0026 02_OOP_Demo_C#\\Association Composition\\OrderItem.cs",
+              "RelativeToolTip": "Association Composition\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:15:01.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# OOP\\Session 01 \u0026 02_OOP_Demo_C#\\Session 01 \u0026 02_OOP_Demo_C#\\Association Composition\\Product.cs",
+              "RelativeDocumentMoniker": "Association Composition\\Product.cs",
+              "ToolTip": "E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# OOP\\Session 01 \u0026 02_OOP_Demo_C#\\Session 01 \u0026 02_OOP_Demo_C#\\Association Composition\\Product.cs",
+              "RelativeToolTip": "Association Composition\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:12:10.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TypeB.cs",
+              "DocumentMoniker": "F:\\C# Projects\\Common2\\TypeB.cs",
+              "ToolTip": "F:\\C# Projects\\Common2\\TypeB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:49:57.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TypeA.cs",
+              "DocumentMoniker": "F:\\C# Projects\\Common2\\TypeA.cs",
+              "ToolTip": "F:\\C# Projects\\Common2\\TypeA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:48:55.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Child.cs",
+              "DocumentMoniker": "E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# OOP\\Session 01 \u0026 02_OOP_Demo_C#\\Session 01 \u0026 02_OOP_Demo_C#\\OOPInheritance\\Child.cs",
+              "RelativeDocumentMoniker": "OOPInheritance\\Child.cs",
+              "ToolTip": "E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# OOP\\Session 01 \u0026 02_OOP_Demo_C#\\Session 01 \u0026 02_OOP_Demo_C#\\OOPInheritance\\Child.cs",
+              "RelativeToolTip": "OOPInheritance\\Child.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:03:41.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Parent.cs",
+              "DocumentMoniker": "E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# OOP\\Session 01 \u0026 02_OOP_Demo_C#\\Session 01 \u0026 02_OOP_Demo_C#\\OOPInheritance\\Parent.cs",
+              "RelativeDocumentMoniker": "OOPInheritance\\Parent.cs",
+              "ToolTip": "E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# OOP\\Session 01 \u0026 02_OOP_Demo_C#\\Session 01 \u0026 02_OOP_Demo_C#\\OOPInheritance\\Parent.cs",
+              "RelativeToolTip": "OOPInheritance\\Parent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:48:34.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Session 01_OOP_Demo_C#.csproj",
+              "DocumentMoniker": "E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# OOP\\Session 01 \u0026 02_OOP_Demo_C#\\Session 01 \u0026 02_OOP_Demo_C#\\Session 01_OOP_Demo_C#.csproj",
+              "RelativeDocumentMoniker": "Session 01_OOP_Demo_C#.csproj",
+              "ToolTip": "E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# OOP\\Session 01 \u0026 02_OOP_Demo_C#\\Session 01 \u0026 02_OOP_Demo_C#\\Session 01_OOP_Demo_C#.csproj",
+              "RelativeToolTip": "Session 01_OOP_Demo_C#.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-10T14:47:59.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# OOP\\Session 01 \u0026 02_OOP_Demo_C#\\Session 01 \u0026 02_OOP_Demo_C#\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# OOP\\Session 01 \u0026 02_OOP_Demo_C#\\Session 01 \u0026 02_OOP_Demo_C#\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:21:14.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# OOP\\Session 01 \u0026 02_OOP_Demo_C#\\Session 01 \u0026 02_OOP_Demo_C#\\Encapsulation\\Employee.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Employee.cs",
+              "ToolTip": "E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# OOP\\Session 01 \u0026 02_OOP_Demo_C#\\Session 01 \u0026 02_OOP_Demo_C#\\Encapsulation\\Employee.cs",
+              "RelativeToolTip": "Encapsulation\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:09:48.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# OOP\\Session 01 \u0026 02_OOP_Demo_C#\\Session 01 \u0026 02_OOP_Demo_C#\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# OOP\\Session 01 \u0026 02_OOP_Demo_C#\\Session 01 \u0026 02_OOP_Demo_C#\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:30:20.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

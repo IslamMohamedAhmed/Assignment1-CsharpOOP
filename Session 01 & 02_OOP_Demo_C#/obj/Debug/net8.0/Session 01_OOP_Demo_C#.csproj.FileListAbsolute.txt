@@ -1,0 +1,18 @@
+F:\C# Projects\Session 01_OOP_Demo_C#\obj\Debug\net8.0\Session 01_OOP_Demo_C#.csproj.AssemblyReference.cache
+F:\C# Projects\Session 01_OOP_Demo_C#\obj\Debug\net8.0\Session 01_OOP_Demo_C#.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Projects\Session 01_OOP_Demo_C#\obj\Debug\net8.0\Session 01_OOP_Demo_C#.AssemblyInfoInputs.cache
+F:\C# Projects\Session 01_OOP_Demo_C#\obj\Debug\net8.0\Session 01_OOP_Demo_C#.AssemblyInfo.cs
+F:\C# Projects\Session 01_OOP_Demo_C#\obj\Debug\net8.0\Session 01_OOP_Demo_C#.csproj.CoreCompileInputs.cache
+F:\C# Projects\Session 01_OOP_Demo_C#\bin\Debug\net8.0\Session 01_OOP_Demo_C#.exe
+F:\C# Projects\Session 01_OOP_Demo_C#\bin\Debug\net8.0\Session 01_OOP_Demo_C#.deps.json
+F:\C# Projects\Session 01_OOP_Demo_C#\bin\Debug\net8.0\Session 01_OOP_Demo_C#.runtimeconfig.json
+F:\C# Projects\Session 01_OOP_Demo_C#\bin\Debug\net8.0\Session 01_OOP_Demo_C#.dll
+F:\C# Projects\Session 01_OOP_Demo_C#\bin\Debug\net8.0\Session 01_OOP_Demo_C#.pdb
+F:\C# Projects\Session 01_OOP_Demo_C#\bin\Debug\net8.0\Common.dll
+F:\C# Projects\Session 01_OOP_Demo_C#\bin\Debug\net8.0\Common.pdb
+F:\C# Projects\Session 01_OOP_Demo_C#\obj\Debug\net8.0\Session .AFA3F3A6.Up2Date
+F:\C# Projects\Session 01_OOP_Demo_C#\obj\Debug\net8.0\Session 01_OOP_Demo_C#.dll
+F:\C# Projects\Session 01_OOP_Demo_C#\obj\Debug\net8.0\refint\Session 01_OOP_Demo_C#.dll
+F:\C# Projects\Session 01_OOP_Demo_C#\obj\Debug\net8.0\Session 01_OOP_Demo_C#.pdb
+F:\C# Projects\Session 01_OOP_Demo_C#\obj\Debug\net8.0\Session 01_OOP_Demo_C#.genruntimeconfig.cache
+F:\C# Projects\Session 01_OOP_Demo_C#\obj\Debug\net8.0\ref\Session 01_OOP_Demo_C#.dll

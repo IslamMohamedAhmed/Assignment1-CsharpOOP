@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "besInWQT++8=",
+  "success": false,
+  "projectFilePath": "E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# OOP\\Session 01 & 02_OOP_Demo_C#\\Session 01 & 02_OOP_Demo_C#\\Session 01_OOP_Demo_C#.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# OOP\\Session 01 & 02_OOP_Demo_C#\\Common2\\Common2.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# OOP\\Session 01 & 02_OOP_Demo_C#\\Common2\\Common2.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# OOP\\Session 01 & 02_OOP_Demo_C#\\Common\\Common.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# OOP\\Session 01 & 02_OOP_Demo_C#\\Common\\Common.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
